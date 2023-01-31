@@ -7,10 +7,11 @@ parts:
 - caption: 수준1
   chapters:
   - file: folder1/folder1-1/notebook1
-  sections:
-    - file: folder1/folder1-1/folder1-1-1/section_1-1-1
     sections:
+    - file: folder1/folder1-1/folder1-1-1/section_1-1-1
+      sections:
       - file: folder1/folder1-1/folder1-1-1/folder1-1-1-1/section_1-1-1-1
+
 - caption: 수준2
   chapters:
   - file: folder2/folder2-1/notebook2
