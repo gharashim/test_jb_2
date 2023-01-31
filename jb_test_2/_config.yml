@@ -1,0 +1,6 @@
+title: jupyterbook_test_2
+author: garam kim
+#logo:
+execute:
+  execute_notebooks: force
+#bibtex_bibfiles:

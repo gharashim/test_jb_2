@@ -1,0 +1,5 @@
+format: jb-book
+root: intro
+chapters:
+  - file: folder1/folder1-1/notebook1
+  - file: folder2/folder2-1/notebook2
