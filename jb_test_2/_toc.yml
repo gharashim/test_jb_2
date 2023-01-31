@@ -6,4 +6,4 @@ parts:
   - file: folder1/folder1-1/notebook1
 - caption: 수준2
   chapters:
-  - file: folder2/folder1-2/notebook2
+  - file: folder2/folder2-1/notebook2
